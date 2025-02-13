@@ -71,25 +71,19 @@ Many travelers seek **off-the-beaten-path destinations** but struggle to find cu
 
 ### Mockups
 
-#### 🛣️ Home Page Mockup
 📌 **Welcome Message & Quick Search for Unique Spots**  
 📌 **Highlighted Pre-Determined Road Trips from Toronto**  
 📌 **Community Featured Spots (Most Liked & Reviewed)**  
-
-![Home Page Mockup](UPLOAD_HERE)
 
 #### 🌍 Unique Spot Details Page
 📌 **Spot Information (Name, Description, Images, Map Location with Google Maps link)**  
 📌 **User Comments & Reviews**  
 📌 **Like & Save Option**  
 
-![Spot Details Mockup](UPLOAD_HERE)
-
 #### 📍 User Submission Page
 📌 **Upload New Unique Spot (Location, Description, Images, Google Maps Integration)**  
 📌 **Pending Review System (Admin Approval)**  
 
-![Upload Page Mockup](UPLOAD_HERE)
 
 ### Data
 #### Data Entities & Relationships:
