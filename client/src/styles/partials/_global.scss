@@ -1,0 +1,18 @@
+@use './typography' as *;
+@use './variables' as *;
+@use './mixins' as *;
+
+* {
+    margin: 0rem;
+    box-sizing: border-box;
+}
+
+ul,
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: $color-background-white;
+}
