@@ -1,0 +1,21 @@
+@use '/src/styles/partials/variables' as *;
+@use '/src/styles/partials/typography' as *;
+
+
+@mixin tablet {
+    @media screen and (min-width: $tablet-breakpoint) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media screen and (min-width: $desktop-breakpoint) {
+        @content;
+    }
+}
+
+@mixin font-style($size, $weight: $weight-normal, $line-height: normal) {
+    font-size: $size;
+    font-weight: $weight;
+    line-height: $line-height;
+}

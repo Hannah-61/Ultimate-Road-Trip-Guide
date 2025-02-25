@@ -1,0 +1,1888 @@
+{
+"html_attributions": [],
+"next_page_token": "AVzFdblt9orNhLiWlnuj1NyIihKqO8LKAWnKqOotYGbNerlZTkuRXSfjkJfNlnEJBQb8tLI9X76pcLtuHr8dAUSl7ATxOzLaDHHeSvzLPXtWQ4mgPwYDP-aGqolC9zbLsP3QBlqKfTHh9M3FGeWvAyq_mITI5ssuYIM8v2zfYH-efcJjtWbzrfcVEFpyY5Sh2t3FBC1QRrz7w4UE39SliAcbMrrb_9QsNQ5TovB8i4shXKk5y67RSLZhv9l8AQ4a61NfdWlKD0MvbkDMvxHFlOkhaq2dnr1CQ5uo0KGoEW7w_XTBvXLiANlQk-WRfoZA1Cf8mK9VisptCHLLyTCNOdO6tP1KXsm7E9misPyrZz6R3WTaAmvDpxRGhwPYhmqMOJAsYgazYUMJi8DWO8sy-iKtXg",
+"results": [
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "100 Queens Park, Toronto, ON M5S 2C6, Canada",
+"geometry": {
+"location": {
+"lat": 43.6677097,
+"lng": -79.3947771
+},
+"viewport": {
+"northeast": {
+"lat": 43.66920594999998,
+"lng": -79.39303222010727
+},
+"southwest": {
+"lat": 43.66644935,
+"lng": -79.39573187989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Royal Ontario Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 724,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/108269597694188548544\">A Google User</a>"
+],
+"photo_reference": "AVzFdbl1bpJOs9p4Rvi4lh2f-e0mrl0xe5FaQW-2vznvUgo75Mh7CNq2k8KMUI-ewB9Ozu2BAGrLp3DLZFd2jJbI40Xyd5qWwDmDa5GeQDBeIzT9rkB9PfY58tRN6iDG7XmeeYONa96Yl6h0qc_i10hilVcyLHyiDj9ZRGsihzQcI_QQF5anmPoK8ePs",
+"width": 1080
+}
+],
+"place_id": "ChIJE-Xa87o0K4gRkvXFHuE0hMk",
+"plus_code": {
+"compound_code": "MJ94+33 Toronto, Ontario",
+"global_code": "87M2MJ94+33"
+},
+"price_level": 3,
+"rating": 4.7,
+"reference": "ChIJE-Xa87o0K4gRkvXFHuE0hMk",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 37715
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "30 Yonge St, Toronto, ON M5E 1X8, Canada",
+"geometry": {
+"location": {
+"lat": 43.6472722,
+"lng": -79.37769019999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.64866622989273,
+"lng": -79.37608227010728
+},
+"southwest": {
+"lat": 43.64596657010728,
+"lng": -79.37878192989271
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Hockey Hall of Fame",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 1515,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107900736546155608288\">Dan Kilbank</a>"
+],
+"photo_reference": "AVzFdbm1xj4D6LJCt9mYRDtoRhOsiBJpJibeLKYDceDl1J3mHnTty3O1C5JoWnv0-sASLDESfyv30i4fd1VbXKupQPUgvnpnBy4IP5iRVn8NNuTAtb0IPxwQejDJnIpUZsHUvTLj_0iZpK6fn-UKiBgjHkqFXtnw9me5pguAuNrF10bQKTFMsfN7mgKp",
+"width": 1920
+}
+],
+"place_id": "ChIJsRjTsS3L1IkRC177bW2To_4",
+"plus_code": {
+"compound_code": "JJWC+WW Toronto, Ontario",
+"global_code": "87M2JJWC+WW"
+},
+"rating": 4.7,
+"reference": "ChIJsRjTsS3L1IkRC177bW2To_4",
+"types": [
+"museum",
+"tourist_attraction",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 6287
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "285 Spadina Rd, Toronto, ON M5R 2V5, Canada",
+"geometry": {
+"location": {
+"lat": 43.6789763,
+"lng": -79.40823999999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.68031832989272,
+"lng": -79.40687742010726
+},
+"southwest": {
+"lat": 43.67761867010728,
+"lng": -79.40957707989271
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Spadina Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 2252,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112942586853670715121\">Glenn Dickler</a>"
+],
+"photo_reference": "AVzFdbmtJU6jVgELl_M4AFMHkYNGic_36LShPdcl-STqfg1_zSRSNq4pr1hZOQgfMzu-RCALCdnbSW4_8W9lX_8wozS9dAeoddF8eYE14LtY7w-3jxJc-nbj2bUoHIpekzaON-Iw8pe4N8ufP6ad5y5Kh4SwaliByY5Al31B9_S0b6RBHqqypWu8fa_x",
+"width": 4000
+}
+],
+"place_id": "ChIJkQDc4500K4gReLP2DQUA_Tk",
+"plus_code": {
+"compound_code": "MHHR+HP Toronto, Ontario",
+"global_code": "87M2MHHR+HP"
+},
+"rating": 4.6,
+"reference": "ChIJkQDc4500K4gReLP2DQUA_Tk",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 788
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "317 Dundas St W, Toronto, ON M5T 1G4, Canada",
+"geometry": {
+"location": {
+"lat": 43.6536066,
+"lng": -79.39251229999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.65516427989272,
+"lng": -79.39132037010728
+},
+"southwest": {
+"lat": 43.65246462010727,
+"lng": -79.39402002989273
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Art Gallery of Ontario",
+"opening_hours": {
+"open_now": true
+},
+"photos": [
+{
+"height": 3000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107904826615290871081\">SIQI LI</a>"
+],
+"photo_reference": "AVzFdblUVgteP2rWQIpOJfYzvJkw2CcsctHIyOCPrWSGlVJOvAQKiXhnwiN9I3IIYSbZTj10Of7MEX77i7qHQ3N_rRMq9RGrh-smR_QG8mFZfzNHgNX_v6Cnum_Mf-0TSErU2DE5c8gOD6tDitoH5dBW6OlZhLw5BrljgEjPM4nX4EWrh5QNQE5IPX4x",
+"width": 4000
+}
+],
+"place_id": "ChIJvRlT7cU0K4gRr0bg7VV3J9o",
+"plus_code": {
+"compound_code": "MJ34+CX Toronto, Ontario",
+"global_code": "87M2MJ34+CX"
+},
+"rating": 4.7,
+"reference": "ChIJvRlT7cU0K4gRr0bg7VV3J9o",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 17573
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "77 Wynford Dr, North York, ON M3C 1K1, Canada",
+"geometry": {
+"location": {
+"lat": 43.7252521,
+"lng": -79.3322231
+},
+"viewport": {
+"northeast": {
+"lat": 43.72666902989272,
+"lng": -79.33108257010728
+},
+"southwest": {
+"lat": 43.72396937010727,
+"lng": -79.33378222989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Aga Khan Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 620,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/116498090128925216383\">A Google User</a>"
+],
+"photo_reference": "AVzFdbkSeYGM248UXfiZxt5FOrsOShj0GaesPPAf3KPZmSwAeDdkbfe_qRg6vkZJQqpv3c9tL9Au7lIe78qWi29bFDYt3sl6A7W4gzL1eQy7QXyCroWylqhDFDrrQmVciOMApfbw-7fMEFr-K4Maltr3o3nqCMOVbtTplHDT4c6NhTWR5QR4GCQORHIY",
+"width": 1246
+}
+],
+"place_id": "ChIJrY4E26DN1IkRzBaz81H3EVw",
+"plus_code": {
+"compound_code": "PMG9+44 North York, Ontario",
+"global_code": "87M2PMG9+44"
+},
+"rating": 4.5,
+"reference": "ChIJrY4E26DN1IkRzBaz81H3EVw",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 6054
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "111 Queens Park, Toronto, ON M5S 2C7, Canada",
+"geometry": {
+"location": {
+"lat": 43.6680934,
+"lng": -79.39315309999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.66934237989272,
+"lng": -79.39212487010727
+},
+"southwest": {
+"lat": 43.66664272010728,
+"lng": -79.39482452989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Gardiner Museum",
+"opening_hours": {
+"open_now": true
+},
+"photos": [
+{
+"height": 483,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/102699727808799697508\">LEONARDO F</a>"
+],
+"photo_reference": "AVzFdbkEwrW_bstLV-PzEYKkEYPVtihO86eENl77bFhSN9HOfdz0qZJKzMFVu4AYiMr9nYGzwJZkgycq2vOqiCIx0CdXPotr1Tl-zEDf1cWyBX-i65Pi6LIwKoz_bWDH8PRpT6a_U3S_CNOI3pnvANYkFOeBVsXMdzKRbs4w3P24duruHo5f92xlqtMN",
+"width": 724
+}
+],
+"place_id": "ChIJiwxr6Lo0K4gR7ZmhAyZhlxw",
+"plus_code": {
+"compound_code": "MJ94+6P Toronto, Ontario",
+"global_code": "87M2MJ94+6P"
+},
+"price_level": 3,
+"rating": 4.4,
+"reference": "ChIJiwxr6Lo0K4gR7ZmhAyZhlxw",
+"types": [
+"tourist_attraction",
+"museum",
+"restaurant",
+"food",
+"point_of_interest",
+"store",
+"establishment"
+],
+"user_ratings_total": 434
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "250 Fort York Blvd, Toronto, ON M5V 3K9, Canada",
+"geometry": {
+"location": {
+"lat": 43.6392417,
+"lng": -79.40414480000001
+},
+"viewport": {
+"northeast": {
+"lat": 43.64053567989273,
+"lng": -79.40220927010728
+},
+"southwest": {
+"lat": 43.63783602010729,
+"lng": -79.40490892989271
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Fort York National Historic Site",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 3456,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/104573286477396241540\">Michael Scott Connolly</a>"
+],
+"photo_reference": "AVzFdbnN7OlcACozOMxf6z5MmOyU3TXs3o5gz7l94Gsn5Wfr2Q-3xG3SAgEDNc4QC8FhNgdija3y2ToFyaa09atWkECXjPCtdWhFGESocOiq2Hj24klzgVPxOhHAfiudO39xg7VT6QkFqgDP6hbCJuL1I-jPOCX-Ho8_3B82uaSA3avQUWtQWJ0zv4uM",
+"width": 5184
+}
+],
+"place_id": "ChIJIf-jex81K4gRG9Y_vJpWT6c",
+"plus_code": {
+"compound_code": "JHQW+M8 Toronto, Ontario",
+"global_code": "87M2JHQW+M8"
+},
+"rating": 4.5,
+"reference": "ChIJIf-jex81K4gRG9Y_vJpWT6c",
+"types": [
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 2445
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
+"geometry": {
+"location": {
+"lat": 43.64071999999999,
+"lng": -79.385949
+},
+"viewport": {
+"northeast": {
+"lat": 43.64243102989272,
+"lng": -79.38512252010727
+},
+"southwest": {
+"lat": 43.63973137010728,
+"lng": -79.38782217989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Toronto Railway Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 2639,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/106095515634635075805\">Glen Grant</a>"
+],
+"photo_reference": "AVzFdbkkJJ2OwK7by2AzVzCw9zHEIGpSgSrtorXkhkOYXDm-7l8HxYKliVLjim5BU78JcVhHkUrwzoPWwUC6w4S9R2Pq-eWAsffZd_MJUnjXmlrrwLRKIfm9AqAomM72bmZOM8q3YSR9uwNt3gmBZopm0ITFzFzOvOB4JZbCm7RgNFbJz3ZEW4qK4Txv",
+"width": 3518
+}
+],
+"place_id": "ChIJd26b4tU0K4gRGUXqB0jvhSc",
+"plus_code": {
+"compound_code": "JJR7+7J Toronto, Ontario",
+"global_code": "87M2JJR7+7J"
+},
+"rating": 4.2,
+"reference": "ChIJd26b4tU0K4gRGUXqB0jvhSc",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 941
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "82 Bond St, Toronto, ON M5B 1X2, Canada",
+"geometry": {
+"location": {
+"lat": 43.6556725,
+"lng": -79.37841019999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.65705147989272,
+"lng": -79.37690432010727
+},
+"southwest": {
+"lat": 43.65435182010727,
+"lng": -79.37960397989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Mackenzie House",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/107187113995534304414\">Alanna Yamasaki</a>"
+],
+"photo_reference": "AVzFdbnJxdfPahOhY2rnbeh3-Em40Km5y8tDxy15i_5b6IUBTZ6NJpuzYzSApjlpy3Q1gAfw1QkfhEH0OTJlIFaxIOgV4gb4xP3Knaw_0ZCXUi5oH2tKbb2n1zMLCjAfEMbYlZaGTABik8YHc1w9PCG6ttS1VmD_2fr4iHtpIc7stms_dzAuqtRueopa",
+"width": 4032
+}
+],
+"place_id": "ChIJI5Tl5DTL1IkReSFv9ZruCiA",
+"plus_code": {
+"compound_code": "MJ4C+7J Toronto, Ontario",
+"global_code": "87M2MJ4C+7J"
+},
+"rating": 4.6,
+"reference": "ChIJI5Tl5DTL1IkReSFv9ZruCiA",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 253
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "5172 Yonge St, Toronto, ON M2N 5P6, Canada",
+"geometry": {
+"location": {
+"lat": 43.769634,
+"lng": -79.414895
+},
+"viewport": {
+"northeast": {
+"lat": 43.77114382989273,
+"lng": -79.41365037010728
+},
+"southwest": {
+"lat": 43.76844417010729,
+"lng": -79.41635002989273
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Gibson House Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 1080,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/104746780281982746891\">Jh Yang</a>"
+],
+"photo_reference": "AVzFdbkAEfGvJAvAM8RtfeF9_6Y9gjjJ1GUCR701XsrUrE4NF3cd0l-OWHsr3L4afez3egmBr-gvKEfkv-cA_wnVr4FH-4SqRoQ2lboATXysSyGeYdqOlbXZy-KaT4NkLACdv0Eir18ilgvnPQSDFnAskaRaHLlv2AmGmOHvWykiX1azwWzryxMu9ot1",
+"width": 1920
+}
+],
+"place_id": "ChIJNef3FW4tK4gRnDY8Sz36IrM",
+"plus_code": {
+"compound_code": "QH9P+V2 Toronto, Ontario",
+"global_code": "87M2QH9P+V2"
+},
+"rating": 4.6,
+"reference": "ChIJNef3FW4tK4gRnDY8Sz36IrM",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 270
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "40 College St, Toronto, ON M5G 1K2, Canada",
+"geometry": {
+"location": {
+"lat": 43.6612021,
+"lng": -79.38480659999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.66246822989272,
+"lng": -79.38338482010727
+},
+"southwest": {
+"lat": 43.65976857010727,
+"lng": -79.38608447989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Toronto Police Museum and Discovery Centre",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/113379298506294299504\">Dmytro Orzhekhovskyi</a>"
+],
+"photo_reference": "AVzFdblE6kAscA7Fhcd69y89FS0kvYXupz3dC-bFfoZdbDG6GnamLacIKIq-TRZ1vR25jSrSzkLi87zHJylSfsZ8_RRZGOjjKIdq9NC9q96tA7jzGWOPpCzz-2R8jcl3FAboMZX5nGXz3fRtkqauR00fzWWY_lPqJx8rw2KR8k1pqA5qpgRsAfspjfvt",
+"width": 4032
+}
+],
+"place_id": "ChIJj6LdLLQ0K4gRMKau53SAEjU",
+"plus_code": {
+"compound_code": "MJ68+F3 Toronto, Ontario",
+"global_code": "87M2MJ68+F3"
+},
+"rating": 4.6,
+"reference": "ChIJj6LdLLQ0K4gRMKau53SAEjU",
+"types": [
+"museum",
+"tourist_attraction",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 207
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "64 Jefferson Ave, Toronto, ON M6K 1Y4, Canada",
+"geometry": {
+"location": {
+"lat": 43.6374638,
+"lng": -79.42231439999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.63884752989272,
+"lng": -79.42083397010728
+},
+"southwest": {
+"lat": 43.63614787010728,
+"lng": -79.42353362989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "MZTV Museum Of Television",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 1365,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/103355536905186630101\">MZTV Museum Of Television</a>"
+],
+"photo_reference": "AVzFdbnaxKSPxnwDeF8fxaGJ13pgFR8rWBvbOZf8Wg1_RNe-a428gl53F25TbWn3lQik1QVunqpjoGujcYDZMAldn_MZY9FXMI16oMCt1EilwC4AkZN_WkpEu0AqBbOFTXYok73Nzza0RWMiEFHOABnV2sKFKVO31K_UbVLwBC1siVGEgckOy6HjYQ5R",
+"width": 2048
+}
+],
+"place_id": "ChIJwy8co2rL1IkRqOdadM3Ujf4",
+"plus_code": {
+"compound_code": "JHPH+X3 Toronto, Ontario",
+"global_code": "87M2JHPH+X3"
+},
+"rating": 4.8,
+"reference": "ChIJwy8co2rL1IkRqOdadM3Ujf4",
+"types": [
+"museum",
+"tourist_attraction",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 94
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "160 Queen St W, Toronto, ON M5H 3H3, Canada",
+"geometry": {
+"location": {
+"lat": 43.6510504,
+"lng": -79.3873108
+},
+"viewport": {
+"northeast": {
+"lat": 43.65222797989272,
+"lng": -79.38603207010728
+},
+"southwest": {
+"lat": 43.64952832010728,
+"lng": -79.38873172989271
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Campbell House Museum",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 2160,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/101624240325926848473\">Excalibur Bär</a>"
+],
+"photo_reference": "AVzFdbkWz2ClEO2BOVdFY33Ob-9nBk07aijxSA2lJ7Ahx8ocM_9WS-Mg3lU1vvwumWTlh9AWVPU8krwV1e4geAGN7OnXNMuk3pL5zyGLzfmP_IEjDxtQj9JXJmM55OSWyKk0FkShf4sLizxEbnYT-XpOuPDx01T6-RiRFm_YZ80CdhJU4qbDaRxdulhh",
+"width": 3840
+}
+],
+"place_id": "ChIJl0BVas40K4gRnRwCmdJHJuc",
+"plus_code": {
+"compound_code": "MJ27+C3 Toronto, Ontario",
+"global_code": "87M2MJ27+C3"
+},
+"rating": 4.5,
+"reference": "ChIJl0BVas40K4gRnRwCmdJHJuc",
+"types": [
+"museum",
+"tourist_attraction",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 278
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "260 Adelaide St E, Toronto, ON M5A 1N1, Canada",
+"geometry": {
+"location": {
+"lat": 43.6518929,
+"lng": -79.370408
+},
+"viewport": {
+"northeast": {
+"lat": 43.65317652989272,
+"lng": -79.36906112010728
+},
+"southwest": {
+"lat": 43.65047687010728,
+"lng": -79.37176077989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Toronto's First Post Office",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 1440,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/112708720762631793208\">Hamid Koleeb</a>"
+],
+"photo_reference": "AVzFdbmYmJUa0g5KRhSmL6QmU3J-lDz5X70guQ5Fh6G5PSYysiZMuJ7ek0grvdy63sb6DS2BBBfXrb18dORDHLP0gHDE85vEG_8xATaWerDI3KZXjEEWZoKGMR94-mAuv-WPIWZ2TFA051KX21NzArq44XnuLyBPJMSOYUdXCHsZ3FZfdi35_RyKYvJu",
+"width": 2560
+}
+],
+"place_id": "ChIJ4w7vvjDL1IkRcZTVqcsoXbc",
+"plus_code": {
+"compound_code": "MJ2H+QR Toronto, Ontario",
+"global_code": "87M2MJ2H+QR"
+},
+"rating": 4.6,
+"reference": "ChIJ4w7vvjDL1IkRcZTVqcsoXbc",
+"types": [
+"post_office",
+"museum",
+"finance",
+"point_of_interest",
+"store",
+"establishment"
+],
+"user_ratings_total": 136
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "1000 Murray Ross Pkwy, Toronto, ON M3J 2P3, Canada",
+"geometry": {
+"location": {
+"lat": 43.7734388,
+"lng": -79.5169094
+},
+"viewport": {
+"northeast": {
+"lat": 43.77468542989272,
+"lng": -79.51537987010728
+},
+"southwest": {
+"lat": 43.77198577010728,
+"lng": -79.51807952989273
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "The Village at Black Creek",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 4000,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/114336132245850707347\">Marc Jacobs</a>"
+],
+"photo_reference": "AVzFdbl1Ue_42uflbuLi9xhwJSkJPPT2jWZb8wSCSCipjAfXPHY8QOjKFBgmxu_0WZUxtmVrgITUuSH5gKK_GUTrU-Aqfh-1XJdKrpaGoOaSbZspZvuv3DIep3pvBGXIh4COHkN0V52EgdpZT49ORC1jnM37K7zj0dG5pEh8O9Pg5GezwNXJLPK4N4C-",
+"width": 6000
+}
+],
+"place_id": "ChIJZz2B_dIvK4gRB5MEKrlNeps",
+"plus_code": {
+"compound_code": "QFFM+96 Toronto, Ontario",
+"global_code": "87M2QFFM+96"
+},
+"rating": 4.6,
+"reference": "ChIJZz2B_dIvK4gRB5MEKrlNeps",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 2808
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "11 Colborne Lodge Dr, Toronto, ON M6S 5A3, Canada",
+"geometry": {
+"location": {
+"lat": 43.6404149,
+"lng": -79.4599726
+},
+"viewport": {
+"northeast": {
+"lat": 43.64162392989273,
+"lng": -79.45879177010727
+},
+"southwest": {
+"lat": 43.63892427010729,
+"lng": -79.46149142989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Colborne Lodge",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 4032,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/114125489844728845686\">Iaroslav Strasevici</a>"
+],
+"photo_reference": "AVzFdbkwJ_xLy71ZLHSG9AqYbM_xPtu-wQvPQ48OhJaiBKCQA5MZkD0YdEK5ZODByfUvJs0z73Scp9cWcrlSIO6mBMas2QadwxBinEK8impphfBMt5WRzCfHG8JrvyoONSoduOvc3mfYMKDCdNtCXjybfUjf7NzDx3KuvvFX0ZUyFas9yQX43mPgYOyM",
+"width": 3024
+}
+],
+"place_id": "ChIJQSYgWCs0K4gRbGDi8h4gLJA",
+"plus_code": {
+"compound_code": "JGRR+52 Toronto, Ontario",
+"global_code": "87M2JGRR+52"
+},
+"rating": 4.5,
+"reference": "ChIJQSYgWCs0K4gRbGDi8h4gLJA",
+"types": [
+"museum",
+"tourist_attraction",
+"park",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 107
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "4709 Dundas St W, Toronto, ON M9A 1A8, Canada",
+"geometry": {
+"location": {
+"lat": 43.651723,
+"lng": -79.52569609999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.65314572989271,
+"lng": -79.52426722010728
+},
+"southwest": {
+"lat": 43.65044607010727,
+"lng": -79.52696687989273
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+"name": "Montgomery's Inn",
+"opening_hours": {
+"open_now": false
+},
+"photos": [
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/113379298506294299504\">Dmytro Orzhekhovskyi</a>"
+],
+"photo_reference": "AVzFdbkIHIEWOBrrXoi_a4Y2L6L1fn9xvgxSap013IcAQy0_smTYWnkgMz48EOmTEQKPD-ORh-EjXueYnjJJvMMec4qguO_9BKFaL2HPjERgJcMEMI2_Iz6O762n_y7NLdjy8V4IbvSobPlrlkkEN3Ddw8mIxrEHX6Ghub9oasnZEVsBTA37oeAy77qi",
+"width": 4032
+}
+],
+"place_id": "ChIJudZUcqg3K4gR19mapO-qm-4",
+"plus_code": {
+"compound_code": "MF2F+MP Toronto, Ontario",
+"global_code": "87M2MF2F+MP"
+},
+"rating": 4.6,
+"reference": "ChIJudZUcqg3K4gR19mapO-qm-4",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 314
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
+"geometry": {
+"location": {
+"lat": 43.6412745,
+"lng": -79.3853026
+},
+"viewport": {
+"northeast": {
+"lat": 43.64298897989273,
+"lng": -79.38410787010727
+},
+"southwest": {
+"lat": 43.64028932010728,
+"lng": -79.38680752989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+"icon_background_color": "#4DB546",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+"name": "Roundhouse Park",
+"opening_hours": {
+"open_now": true
+},
+"photos": [
+{
+"height": 3456,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/109137777694690694139\">Jesus Yusuf Isa Cuevas</a>"
+],
+"photo_reference": "AVzFdbleVhc_LRroqPnJRTKRc9zhFz97YbCV4Klb_DTz7Dk9FTqUFOpzUtF367NDKPyee8d3zSvYYrykm2UsoDkmxhKiM-pwnVBtuH0wR-XDRrqZrufT7v_le5GcYhs5xreMWco3fbfQ0rpfkbucuIdZsozhF8HJvQmFdnGPRABRuWij10jLAeicUYcn",
+"width": 4608
+}
+],
+"place_id": "ChIJZ3eA59U0K4gRrXzwQuZvfgU",
+"plus_code": {
+"compound_code": "JJR7+GV Toronto, Ontario",
+"global_code": "87M2JJR7+GV"
+},
+"rating": 4.5,
+"reference": "ChIJZ3eA59U0K4gRrXzwQuZvfgU",
+"types": [
+"park",
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 5408
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "486 Front St W building C, Toronto, ON M5V 0V2, Canada",
+"geometry": {
+"location": {
+"lat": 43.64299390000001,
+"lng": -79.39697629999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.64434662989272,
+"lng": -79.39536572010728
+},
+"southwest": {
+"lat": 43.64164697010727,
+"lng": -79.39806537989271
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Arcadia Earth Toronto",
+"opening_hours": {
+"open_now": true
+},
+"photos": [
+{
+"height": 3468,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/117343041003622436199\">kristy c</a>"
+],
+"photo_reference": "AVzFdblB9R5O_53xcwtI44RAx84GLRYk1blYD5CJBw-LtwiKCRsOEJk2qW22VFO3l7augQYEFnVZKXUk-0bgyNt_EXK5eqxKko3CZgoItBJ3Hz0fJhY-USLSmD22gqtDo2Avg75Y2U00RSQqSWbFAMga7fr-koLu6CKjns8DyhQJoflPdhGjWT4leNPg",
+"width": 4624
+}
+],
+"place_id": "ChIJNWK1dA41K4gR9fVcg8jYq4Q",
+"plus_code": {
+"compound_code": "JJV3+56 Toronto, Ontario",
+"global_code": "87M2JJV3+56"
+},
+"rating": 4.2,
+"reference": "ChIJNWK1dA41K4gR9fVcg8jYq4Q",
+"types": [
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 1302
+},
+{
+"business_status": "OPERATIONAL",
+"formatted_address": "158 Sterling Rd #100, Toronto, ON M6R 2B7, Canada",
+"geometry": {
+"location": {
+"lat": 43.6546127,
+"lng": -79.44520179999999
+},
+"viewport": {
+"northeast": {
+"lat": 43.65602917989272,
+"lng": -79.44373957010727
+},
+"southwest": {
+"lat": 43.65332952010728,
+"lng": -79.44643922989272
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+"icon_background_color": "#13B5C7",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+"name": "Museum of Contemporary Art Toronto Canada",
+"opening_hours": {
+"open_now": true
+},
+"photos": [
+{
+"height": 3024,
+"html_attributions": [
+"<a href=\"https://maps.google.com/maps/contrib/104014203224528797327\">Erin S</a>"
+],
+"photo_reference": "AVzFdbmls4bGyN-3MzMlwe-Z1S0tD63GyeUq1iqqYJIu5mFSVmw72d1v6C1ggmc2LsFTf95rnjJVm8BndU_XdgXGdquP2R7m7E2e6B2ExRfWHucHE7HdRixYDhsUtn0mFVEH-hPTsipB3J03mY6W5lnwwiufAcrtltQuLE_WGyoNZ38PBhbBZ5WHyNPG",
+"width": 4032
+}
+],
+"place_id": "ChIJPTR3fUg0K4gRGH1cEOzq6TM",
+"plus_code": {
+"compound_code": "MH33+RW Toronto, Ontario",
+"global_code": "87M2MH33+RW"
+},
+"rating": 3.9,
+"reference": "ChIJPTR3fUg0K4gRGH1cEOzq6TM",
+"types": [
+"tourist_attraction",
+"museum",
+"point_of_interest",
+"establishment"
+],
+"user_ratings_total": 1286
+}
+],
+"status": "OK"
+}
+
+{
+    "html_attributions": [],
+    "results": [
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "23 Ontario St, Kingston, ON K7L 2Y2, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2242464,
+    "lng": -76.4847348
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22548172989272,
+    "lng": -76.48349882010727
+    },
+    "southwest": {
+    "lat": 44.22278207010728,
+    "lng": -76.48619847989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "PumpHouse",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 1600,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/111922745669558859672\">Pump House Steam Museum</a>"
+    ],
+    "photo_reference": "AVzFdbkbBiI2Sn_NYkr75jLKt6wKEFGNiTrzTpVPXIeisP3SsnOxXYmyOYLqSfLGRRRjn1p2ODXnQ0udB6PPdSdhoh7IRJ-Wz0Vskg9QWw2KnlCKxrGCO54P5ug6sqpSf2bMeH9e5EEH2QdBsF1V__Ay4b2hfbYIwP8-7BVntz5xAVSrOJ0iERBQTSr7",
+    "width": 2133
+    }
+    ],
+    "place_id": "ChIJk3zQt_yq0kwRp85Sav0p124",
+    "plus_code": {
+    "compound_code": "6GF8+M4 Kingston, Ontario",
+    "global_code": "87P56GF8+M4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJk3zQt_yq0kwRp85Sav0p124",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 246
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "55 Ontario St, Kingston, ON K7L 2Y2, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2254348,
+    "lng": -76.4831672
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22695897989271,
+    "lng": -76.48219422010729
+    },
+    "southwest": {
+    "lat": 44.22425932010727,
+    "lng": -76.48489387989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Great Lakes Museum",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 3036,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/102692799374121199690\">Oguz Sarkut</a>"
+    ],
+    "photo_reference": "AVzFdbnrjbdX4coO5XW-DcG6h7hBURX9036zs7Kx7O-7gdeuQPh5ap04UiI6wM2zSfN_yo7sqrEPPfFAZHVkqpa59gEwDQbmOOBq_T6XS6gbdh7_R_rExcPTPXG9oJhkrm0geQnonwgul98xhWOqpBHulx5QAMjSXb-9JhWP8hCsRUhZpvbROP2EJDH5",
+    "width": 4048
+    }
+    ],
+    "place_id": "ChIJx0CNiPyq0kwRHNaPetb8yrM",
+    "plus_code": {
+    "compound_code": "6GG8+5P Kingston, Ontario",
+    "global_code": "87P56GG8+5P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJx0CNiPyq0kwRHNaPetb8yrM",
+    "types": [
+    "tourist_attraction",
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 222
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1350 Gardiners Rd, Kingston, ON K7P 0E5, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2751026,
+    "lng": -76.56909379999999
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.27693697989271,
+    "lng": -76.56761067010727
+    },
+    "southwest": {
+    "lat": 44.27423732010727,
+    "lng": -76.57031032989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Original Hockey Hall of Fame",
+    "opening_hours": {
+    "open_now": true
+    },
+    "photos": [
+    {
+    "height": 4032,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/105298195425810616458\">Gavin Doyle</a>"
+    ],
+    "photo_reference": "AVzFdbls7U25Vne9G1Ma-zoCKvkwPvgp21KtLn4pKZZmuVI-_GDzOGZI8p1acbli28wrucz8o-1I3Ss7sk7WNaaZncvgr_QI2vM8trE50NiznKf-9PsjvgtnsmxfJWxshzX0-46K91kSpinkJQ6XVsbafD3cnyuMEFHMbL86GnC9DTUxoylmGvKFBVfA",
+    "width": 3024
+    }
+    ],
+    "place_id": "ChIJ7xLertat0kwRFVeOQz1_T-s",
+    "plus_code": {
+    "compound_code": "7CGJ+29 Kingston, Ontario",
+    "global_code": "87P57CGJ+29"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ7xLertat0kwRFVeOQz1_T-s",
+    "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 18
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "32 George St, Kingston, ON K7L 2V7, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2237693,
+    "lng": -76.4923233
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22515597989272,
+    "lng": -76.49072872010727
+    },
+    "southwest": {
+    "lat": 44.22245632010728,
+    "lng": -76.49342837989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Museum of Health Care at Kingston",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 1683,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115749485085704079959\">A Google User</a>"
+    ],
+    "photo_reference": "AVzFdbnbf-iB4kHyX7acAYI9Nqo77MeO__nUFrXlrKh05z2eXk1f9ehTgs-Y-vfXu54cNyM4nUrhMmw4zZpjfA2h7gbhv7j2GZN9ZsNRUn0CzTPecFta5pn84PWBvz163TsdoUZYIjomdvM77welLjzn7G_hcI3Yl6F24_bBSEM45-ZmIPRbd1x1oco9",
+    "width": 1728
+    }
+    ],
+    "place_id": "ChIJGTGeOB2r0kwRKyWYHTPs_uY",
+    "plus_code": {
+    "compound_code": "6GF5+G3 Kingston, Ontario",
+    "global_code": "87P56GF5+G3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJGTGeOB2r0kwRKyWYHTPs_uY",
+    "types": [
+    "tourist_attraction",
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 62
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "95 Craftsman Blvd, Kingston, ON K7K 7B4, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2420288,
+    "lng": -76.4398928
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.24330082989272,
+    "lng": -76.43849382010727
+    },
+    "southwest": {
+    "lat": 44.24060117010728,
+    "lng": -76.44119347989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Military Communications And Electronics Museum",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 1836,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/112140178950385486371\">John Livingstone</a>"
+    ],
+    "photo_reference": "AVzFdbkUymimVCfdioZWcvFITig8Czi9VIr7qLm4Fn7cky5SZXdpNi9TvxUV7JYPv2cSy0OKN1-2NrEcFPEX4KkDNdZFw3jD6Crn_WyF-GdlURQGo_7w4FJYq30mrvKD9UlAKw4P9jsx6brz2XssPY85GbPjjYzBq8DWRKOeiXBqFw0vGeKszTE4E1l1",
+    "width": 3264
+    }
+    ],
+    "place_id": "ChIJjRnh8XOq0kwRhOOPbuoagPk",
+    "plus_code": {
+    "compound_code": "6HR6+R2 Kingston, Ontario",
+    "global_code": "87P56HR6+R2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJjRnh8XOq0kwRhOOPbuoagPk",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 332
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Queen's University, Miller Hall, 36 Union St, Kingston, ON K7L 2N8, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2274001,
+    "lng": -76.4927957
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22870887989271,
+    "lng": -76.49145937010728
+    },
+    "southwest": {
+    "lat": 44.22600922010727,
+    "lng": -76.49415902989271
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "The Miller Museum Of Geology",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 3072,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/109826358787486641835\">drl</a>"
+    ],
+    "photo_reference": "AVzFdbkGwqhx0hQsmiJgf5T5cb1SJkxxUQ9HcIW2gc65fkRiik6oad82zuHWNMkObVBNDXawGTS1cq2U6eEiF360uKmEfQACsF3tgWl-ns7JaGNrOlr4Qqtyj4BrNaMylccdhsu12QNHD17Qbipdsb7eg6Mt23v0-Bx4A_TGunaRwpiTX5a_debmISGW",
+    "width": 4080
+    }
+    ],
+    "place_id": "ChIJC1_GogOr0kwRniCiLJE_wmM",
+    "plus_code": {
+    "compound_code": "6GG4+XV Kingston, Ontario",
+    "global_code": "87P56GG4+XV"
+    },
+    "rating": 4.6,
+    "reference": "ChIJC1_GogOr0kwRniCiLJE_wmM",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 77
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "414 Regent St, Kingston, ON K7K 5R1, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2403004,
+    "lng": -76.4620795
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.24162732989272,
+    "lng": -76.46072522010728
+    },
+    "southwest": {
+    "lat": 44.23892767010727,
+    "lng": -76.46342487989273
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Frontenac County Schools Museum",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 720,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/100199721504516452536\">Frontenac County Schools Museum</a>"
+    ],
+    "photo_reference": "AVzFdblfWjY6D83Zf3XbHVBrFZOsarLoh11glr2j_bARJtcvN44KrJjfrqo6L_oNuS0W_zjE78jLolKjBpBqaXP-nzZ3kGIqBW5UgA_YnAVPEpNx3Jk6njTcXzW4TeD_S4ck391_PT2tSLg593EKhY4qWAnOv21-3noQErvvgS-eJfZUjUggvsP5_-zo",
+    "width": 960
+    }
+    ],
+    "place_id": "ChIJXcY-OUOq0kwRQ7c2bmgAvzM",
+    "plus_code": {
+    "compound_code": "6GRQ+35 Kingston, Ontario",
+    "global_code": "87P56GRQ+35"
+    },
+    "rating": 4.8,
+    "reference": "ChIJXcY-OUOq0kwRQ7c2bmgAvzM",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 17
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kingston, ON K7L 2Z1, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2290853,
+    "lng": -76.4800997
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.23035972989272,
+    "lng": -76.47881192010728
+    },
+    "southwest": {
+    "lat": 44.22766007010728,
+    "lng": -76.48151157989273
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Engine 1095",
+    "opening_hours": {
+    "open_now": true
+    },
+    "photos": [
+    {
+    "height": 2736,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/102056191245659548532\">A Google User</a>"
+    ],
+    "photo_reference": "AVzFdbn0L9H-IX1rTLeDsl7UPEljZ0Ix_unDJyDCCImef05Xgva3u0NSvfYUW-G6VuDivQ1VG4tuIEFCBX7X4q8uLtP4nOn2ETOcPvScIHCvp22T7AJihLXlJeaZ8-6dq1QJYqq3OlUrE6SXXNFXLaG-yPqHJApcl-rORaYE8jwngKGntzXEGDNamqnn",
+    "width": 3648
+    }
+    ],
+    "place_id": "ChIJOQdFOfmq0kwR9F25Bh4K6So",
+    "plus_code": {
+    "compound_code": "6GH9+JX Kingston, Ontario",
+    "global_code": "87P56GH9+JX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJOQdFOfmq0kwR9F25Bh4K6So",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 98
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "4 Passchendale Dr, Kingston, ON K7K 2X5, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2277666,
+    "lng": -76.4696603
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22915547989272,
+    "lng": -76.46837717010727
+    },
+    "southwest": {
+    "lat": 44.22645582010728,
+    "lng": -76.47107682989271
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Royal Military College of Canada Museum",
+    "photos": [
+    {
+    "height": 4032,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/116521082787822276136\">John M</a>"
+    ],
+    "photo_reference": "AVzFdbmA60XdMjk6hm-HTOK_mW3yAA8mo_76yrMQuJhsRRRcUuAzMpZ8vkCIQMxuqvYBYE_ZSPiSsFsD9Ubmoc8X7AXhZ4h-4jwZ7NK_tkam_W8zbBsd1PvYLHc0yMeYFrbV2oo0pbCHlQqKOYracUtkwpnt_zXzfGQak50NKklFcxl2rEWM8-0xUOCD",
+    "width": 3024
+    }
+    ],
+    "place_id": "ChIJVVUZIfSq0kwRKSt4fJIfB-8",
+    "plus_code": {
+    "compound_code": "6GHJ+45 Kingston, Ontario",
+    "global_code": "87P56GHJ+45"
+    },
+    "rating": 4.3,
+    "reference": "ChIJVVUZIfSq0kwRKSt4fJIfB-8",
+    "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 3
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "100 Montreal St, Kingston, ON K7K 3E8, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2339767,
+    "lng": -76.4852963
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.23533022989272,
+    "lng": -76.48390447010728
+    },
+    "southwest": {
+    "lat": 44.23263057010728,
+    "lng": -76.48660412989271
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Princess of Wales' Own Regiment",
+    "opening_hours": {
+    "open_now": false
+    },
+    "photos": [
+    {
+    "height": 4032,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/111239746718054572057\">Susan Behrmann</a>"
+    ],
+    "photo_reference": "AVzFdbnG-hnk9OkmuxCCtw0F5a3BOrSCdpW7k9jHiJxmm9S1wDDyUaZ2roWaYvzGkzPoFkOQWgf1zlaYws_yMzRIdskQ-xxoucH8PWoSoziIOvPD9B9oPv-Djx0ny8UIkRxTYSPBPSynSV4rkocASCpF84_Jm6c_flWZFJ31n0NpcYfTNfa413ruc7E",
+    "width": 3024
+    }
+    ],
+    "place_id": "ChIJ260Jy6qr0kwRN4T6_bMkYtg",
+    "plus_code": {
+    "compound_code": "6GM7+HR Kingston, Ontario",
+    "global_code": "87P56GM7+HR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ260Jy6qr0kwRN4T6_bMkYtg",
+    "types": [
+    "museum",
+    "local_government_office",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 46
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "2993 Hwy 2 East, Kingston, ON K7L 4V1, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2963714,
+    "lng": -76.31411159999999
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.29774972989272,
+    "lng": -76.31298167010729
+    },
+    "southwest": {
+    "lat": 44.29505007010728,
+    "lng": -76.31568132989274
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "MacLachlan Woodworking Museum",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 3456,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/108856089177254495714\">MacLachlan Woodworking Museum</a>"
+    ],
+    "photo_reference": "AVzFdbn0uJ8YyN_pm2UEmj4TB9k_3v03X2_vgpTciLTS93pTgcAFtYY6eyM6D078e7YroG6BH5d9DOFfQaX3rtY63jnL7q7Id9t5RwuTlMSc0iCsgzUyF_tmlBbVbPf_H0qKHam6G4jbj_lHMZzmyr0FvW0IlcFqYoOcMBzl7NPEWgsKy0G01oBPMQx3",
+    "width": 5184
+    }
+    ],
+    "place_id": "ChIJAQAAkCxXzUwR0bZzaWzUzDI",
+    "plus_code": {
+    "compound_code": "7MWP+H9 Kingston, Ontario",
+    "global_code": "87P57MWP+H9"
+    },
+    "rating": 4.4,
+    "reference": "ChIJAQAAkCxXzUwR0bZzaWzUzDI",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 37
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "555 King St W, Kingston, ON K7L 4V7, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2216073,
+    "lng": -76.51380069999999
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22292397989272,
+    "lng": -76.51245112010729
+    },
+    "southwest": {
+    "lat": 44.22022432010728,
+    "lng": -76.51515077989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Canada's Penitentiary Museum (Correctional Service of Canada Museum)",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 3024,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/103768250205504067416\">Joseph Aron</a>"
+    ],
+    "photo_reference": "AVzFdblB9QCqhqYZZPgyR4pMdAIJISGQUWMmvWkALMPjLevZ5Y8fkLMOQFX6vbA9LIBWQOH0YHi-Oc0IBho0iFrIqR7rX6pSOd-ZFQFnKFLpEWKp1vAJETMc8bXLq5zRKNK9-119bwjoKnGnMxeaSyAqldgouxhijVNVTXF_VJJJexIk3k92PRb3JY5a",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJ46Nn7BSr0kwR4jlf-0nwWVI",
+    "plus_code": {
+    "compound_code": "6FCP+JF Kingston, Ontario",
+    "global_code": "87P56FCP+JF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ46Nn7BSr0kwR4jlf-0nwWVI",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 309
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "1 Fort Henry Dr, Kingston, ON K7K 5G8, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2309431,
+    "lng": -76.4598731
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.23196647989272,
+    "lng": -76.45864642010727
+    },
+    "southwest": {
+    "lat": 44.22926682010727,
+    "lng": -76.46134607989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fort Henry National Historic Site",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 3024,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/117116138311242254319\">peterpan28</a>"
+    ],
+    "photo_reference": "AVzFdbkAkfQaurq3qRRJGAXjGU1VuNqeELOy2MENwUiHov2vItIZRf9SUuTwAv4V7fmEcBr2TadCz5PaSKFayXbDTBCbDLK-W9ofBs8H2256mMYlWn3fM7fCDZwejoOLZ4jYgbIWMPOLnvByWfyzScBAADhrNf6BGumR4uVxnDNiLfMVZXSETz2GQxOy",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJ_X3HN2Cq0kwRn4f51usOfEU",
+    "plus_code": {
+    "compound_code": "6GJR+93 Kingston, Ontario",
+    "global_code": "87P56GJR+93"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ_X3HN2Cq0kwRn4f51usOfEU",
+    "types": [
+    "tourist_attraction",
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 4112
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "2 King St W, Kingston, ON K7L 4V6, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.22226089999999,
+    "lng": -76.490404
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22370537989273,
+    "lng": -76.48884347010727
+    },
+    "southwest": {
+    "lat": 44.22100572010728,
+    "lng": -76.49154312989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Murney Tower Museum National Historic Site of Canada",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 1365,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/102625550240550964937\">Murney Tower</a>"
+    ],
+    "photo_reference": "AVzFdbmlxi5r_LlDyjuisXngteDCDRibQm4rT0RGEQgWgeHA_-MBiZKTkhalVvCePA_-_2FQSolKKSltR1vbYjPBnRhqaUfJHLoZvzbxoCSMGFm4L2EeWivtdkV6A1rO6R40jrQBifNcjoRWtHBxW8jxdfQZaxf84dRVNlR9vKGdXyvdTVBnrsL0pVj_",
+    "width": 2048
+    }
+    ],
+    "place_id": "ChIJm82VnOKq0kwRFyFOgGEybqM",
+    "plus_code": {
+    "compound_code": "6GC5+WR Kingston, Ontario",
+    "global_code": "87P56GC5+WR"
+    },
+    "rating": 4.4,
+    "reference": "ChIJm82VnOKq0kwRFyFOgGEybqM",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 191
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "36 University Ave, Kingston, ON K7L 3N6, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2253504,
+    "lng": -76.49628870000001
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22669277989272,
+    "lng": -76.49460952010729
+    },
+    "southwest": {
+    "lat": 44.22399312010728,
+    "lng": -76.49730917989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Agnes Etherington Art Centre",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 3072,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/104049831541426098049\">A Google User</a>"
+    ],
+    "photo_reference": "AVzFdbmwitaX3aTBNyZxGKgyaIihtHXT06vBnfW8FyYFfuzhA7ZWeumwhau-hxYbDzwKYgs8qN-Ud_4fIomMlIVjeUUeTaNptQYa17vFc0Y0Uc9pSfd6XCb9pvDsrBfjakhyD9r6Zl4qyiqZ6xxvLRuc0X4UkfEk1LfKraov2EBB2viRUc6WrpaUU5hV",
+    "width": 4608
+    }
+    ],
+    "place_id": "ChIJ21vHrgSr0kwRhadZK8ch3Is",
+    "plus_code": {
+    "compound_code": "6GG3+4F Kingston, Ontario",
+    "global_code": "87P56GG3+4F"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ21vHrgSr0kwRhadZK8ch3Is",
+    "types": [
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 176
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "560 King St W, Kingston, ON K7L 4V7, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2192157,
+    "lng": -76.513457
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22202444999999,
+    "lng": -76.51221697010727
+    },
+    "southwest": {
+    "lat": 44.21827945000001,
+    "lng": -76.51491662989272
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Kingston Penitentiary",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 3000,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/109749583889789490413\">A Google User</a>"
+    ],
+    "photo_reference": "AVzFdbkWWdyojtBGr6HAXIbR1JBtLZF7U9bPi2Qkst_rVnTJR7o8-sr574utdOynLSJdhnQ8NXK-yUqhpVNotdEDm_hIBEF-m9Bu346MWw26lmBZBRGbXn5NlZ9kK2JKO3X0XEPqiwdnJDYvYQmFBxV1BFEi3y6ryo9AbCOOJ-9gCjQkGhG4aqUFNQdq",
+    "width": 4000
+    }
+    ],
+    "place_id": "ChIJ64r80BSr0kwRn3IhQm9JUzY",
+    "plus_code": {
+    "compound_code": "6F9P+MJ Kingston, Ontario",
+    "global_code": "87P56F9P+MJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ64r80BSr0kwRn3IhQm9JUzY",
+    "types": [
+    "museum",
+    "tourist_attraction",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 3957
+    },
+    {
+    "business_status": "CLOSED_TEMPORARILY",
+    "formatted_address": "35 Centre St, Kingston, ON K7L 4E5, Canada",
+    "geometry": {
+    "location": {
+    "lat": 44.2230081,
+    "lng": -76.50409549999999
+    },
+    "viewport": {
+    "northeast": {
+    "lat": 44.22434447989272,
+    "lng": -76.5030227701073
+    },
+    "southwest": {
+    "lat": 44.22164482010727,
+    "lng": -76.50572242989273
+    }
+    }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bellevue House National Historic Site",
+    "permanently_closed": true,
+    "photos": [
+    {
+    "height": 2268,
+    "html_attributions": [
+    "<a href=\"https://maps.google.com/maps/contrib/115512544445041508622\">A Google User</a>"
+    ],
+    "photo_reference": "AVzFdbn4LaFbyy15shtmrDqDt35jL0822FCwZ_7ABHThDy1Zb97CQ17KtCUWNbEN39Ez_-AQQ6X0jnlw6ZKochFxmSBOLqXNZNFCCjZ7iIoakpMgkHL0aQlhiCnIvjBmiaA4Og7MuAKPIhXl3rp2CDyXuRUTrfaN7KbILRq_wdyvi-jt5xLKx2MQH1gP",
+    "width": 4032
+    }
+    ],
+    "place_id": "ChIJSWfY7BCr0kwR25-XoEvnj3E",
+    "plus_code": {
+    "compound_code": "6FFW+69 Kingston, Ontario",
+    "global_code": "87P56FFW+69"
+    },
+    "rating": 4.3,
+    "reference": "ChIJSWfY7BCr0kwR25-XoEvnj3E",
+    "types": [
+    "tourist_attraction",
+    "museum",
+    "point_of_interest",
+    "establishment"
+    ],
+    "user_ratings_total": 415
+    }
+    ],
+    "status": "OK"
+    }

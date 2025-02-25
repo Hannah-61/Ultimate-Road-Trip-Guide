@@ -1,0 +1,57 @@
+@use "sass:color";
+@use "/src/styles/partials/variables" as *;
+
+:root {
+  font-family: "Poppins", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: $color-text;
+  background-color: $color-background;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: $color-primary;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: color.adjust($color-primary, $lightness: -10%);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: $color-background;
+}
+
+h1 {
+  font-size: 2.8em;
+  font-weight: $weight-bold;
+  color: $color-olive; 
+}
+
+button {
+  border-radius: 6px;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: $color-mint; 
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: $color-fern;
+}

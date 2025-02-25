@@ -1,0 +1,120 @@
+@use "../../styles/partials/mixins" as *;
+@use "../../styles/partials/variables" as *;
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: $color-forest;
+    padding: 2rem;
+
+    @include tablet {
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    @include desktop {
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    &__logo {
+        font-family: 'Kanit';
+        @include font-style(2rem, 500, 1rem);
+        color: $color-sunshine;
+        text-align: left;
+        padding-bottom: 2rem;
+    }
+
+    &__resources {
+        font-family: 'Kanit';
+        @include font-style(1.125rem, 500, 1.4375rem);
+        color: $color-sunshine;
+        text-align: left;
+
+        ul {
+            padding: 0;
+            text-align: left;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        @include desktop {
+            padding-left: 25rem;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+    }
+
+    &__bio {
+        font-family: 'Kanit';
+        @include font-style(1.125rem, 500, 1.4375rem);
+        color: $color-sunshine;
+        text-align: left;
+
+        ul {
+            padding: 0;
+            text-align: left;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        @include desktop {
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+    }
+
+    &__socials {
+        display: flex;
+        gap: 1rem;
+        color: $color-deep-teal;
+        text-align: left;
+
+        &-icon img {
+            width: 2rem;
+            height: 2rem;
+        }
+    }
+
+    &__copyright {
+        font-family: 'Kanit';
+        @include font-style(1.125rem, 500, 1.4375rem);
+        color: $color-olive;
+        margin-top: 2rem;
+        text-align: left;
+        width: 100%;
+
+        span {
+            margin: 0 0.5rem;
+        }
+
+        @include desktop {
+            flex-direction: row;
+            justify-content: flex-start;
+            margin-top: 3rem;
+        }
+    }
+}
+
+.header {
+    height: 15vh;
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    color: $color-sunshine;
+    background-color: $color-forest;
+
+    &__logo {
+        font-family: 'Kanit';
+        @include font-style(2rem, 500, 1rem);
+        color: $color-sunshine;
+    }
+}
