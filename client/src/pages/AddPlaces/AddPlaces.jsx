@@ -92,7 +92,7 @@ const AddPlaces = () => {
       <input type="text" placeholder="Description" value={newPlace.description} onChange={(e) => setNewPlace({ ...newPlace, description: e.target.value })} />
       <input type="text" placeholder="Your Name" value={newPlace.submitted_by} onChange={(e) => setNewPlace({ ...newPlace, submitted_by: e.target.value })} />
       
-      {/* Multiple Image Upload */}
+      
       <input type="file" accept="image/*" multiple onChange={handleImageChange} />
       
       <button onClick={handleAddPlace}>Submit Place</button>

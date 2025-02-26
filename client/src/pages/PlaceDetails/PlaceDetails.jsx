@@ -16,22 +16,19 @@ const PlaceDetails = () => {
     fetchComments();
   }, [id]);
 
-
   const fetchPlaceDetails = async () => {
     try {
       const res = await fetch(`http://localhost:8080/places/${id}`);
       if (!res.ok) throw new Error("Failed to fetch place details");
+
       const data = await res.json();
 
       let images = [];
-      if (data.image_url) {
-        try {
-          images = JSON.parse(data.image_url); 
-        } catch (e) {
-          images = [data.image_url]; 
-        }
+      if (data.image_urls) {
+        images = Array.isArray(data.image_urls) ? data.image_urls : [data.image_urls];
       }
-      setPlace({ ...data, images });
+
+      setPlace({ ...data, image_urls: images });
       setLikes(data.likes || 0);
     } catch (err) {
       console.error("Error fetching place details:", err);
@@ -40,7 +37,6 @@ const PlaceDetails = () => {
       setLoading(false);
     }
   };
-
 
   const fetchComments = async () => {
     try {
@@ -52,7 +48,6 @@ const PlaceDetails = () => {
       console.error("Error fetching comments:", err);
     }
   };
-
 
   const handleAddComment = async () => {
     if (!newComment.username.trim() || !newComment.comment.trim()) {
@@ -72,15 +67,13 @@ const PlaceDetails = () => {
         throw new Error(errorData.error || "Failed to add comment");
       }
 
-      const addedComment = await res.json();
-      setComments((prev) => [...prev, { id: addedComment.id, place_id: id, ...newComment }]);
+      setComments((prev) => [...prev, { place_id: id, ...newComment }]);
       setNewComment({ username: "", comment: "" });
     } catch (err) {
       console.error("Error adding comment:", err);
       alert("Error adding comment. Please try again.");
     }
   };
-
 
   const handleDeleteComment = async (commentId) => {
     try {
@@ -104,14 +97,12 @@ const PlaceDetails = () => {
     try {
       const res = await fetch(`http://localhost:8080/places/${id}/like`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ placeId: id }),
       });
-  
+
       if (!res.ok) throw new Error("Failed to like place");
-  
+
       const data = await res.json();
       setLikes(data.likes);
     } catch (err) {
@@ -119,7 +110,6 @@ const PlaceDetails = () => {
       alert("Error liking place. Please try again.");
     }
   };
-  
 
   if (loading) return <h2>Loading...</h2>;
   if (error) return <h2 className="error">Error: {error}</h2>;
@@ -129,13 +119,12 @@ const PlaceDetails = () => {
     <div className="place-details-container">
       <h2>{place.name}</h2>
 
-
       <div className="image-gallery">
-        {place.images.length > 0 ? (
-          place.images.map((image, index) => (
+        {place.image_urls && place.image_urls.length > 0 ? (
+          place.image_urls.map((image, index) => (
             <img
               key={index}
-              src={image.startsWith("/uploads") ? `http://localhost:8080${image}` : image}
+              src={image}
               alt={place.name}
               className="place-image"
               onError={(e) => (e.target.src = "https://via.placeholder.com/300")}
@@ -146,10 +135,9 @@ const PlaceDetails = () => {
         )}
       </div>
 
-
       <div className="buttons-container">
         <button className="like-button" onClick={handleLike}>
-          ❤️ Like ({likes})
+          Like ({likes})
         </button>
       </div>
 
@@ -167,7 +155,6 @@ const PlaceDetails = () => {
           </div>
         ))
       )}
-
 
       <h3>Add a Comment</h3>
       <div className="comment-form">

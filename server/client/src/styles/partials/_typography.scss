@@ -1,0 +1,118 @@
+/* ==========================
+   Kanit Font Faces (Italic)
+   ========================== */
+
+/* Thai */
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKV-Go6G5tXcraQI2GwZoREDFs.woff2') format('woff2');
+}
+
+/* Vietnamese */
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKV-Go6G5tXcraQI2GwfYREDFs.woff2') format('woff2');
+}
+
+/* Latin */
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKV-Go6G5tXcraQI2GwcoRE.woff2') format('woff2');
+}
+
+/* ==========================
+   Kanit Font Faces (Normal)
+   ========================== */
+
+/* Thai */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKX-Go6G5tXcr72KxaAcJxA.woff2') format('woff2');
+}
+
+/* Vietnamese */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKX-Go6G5tXcr72Kw2AcJxA.woff2') format('woff2');
+}
+
+/* Latin */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKX-Go6G5tXcr72KwKAcA.woff2') format('woff2');
+}
+
+/* ==========================
+   Kanit - Weight Variations
+   ========================== */
+
+/* Italic 300 */
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKS-Go6G5tXcraQI6miZaNhMQ.woff2') format('woff2');
+}
+
+/* Italic 400 */
+@font-face {
+  font-family: 'Kanit';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKX-Go6G5tXcraQKwKAcA.woff2') format('woff2');
+}
+
+/* Normal 300 */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKU-Go6G5tXcr4-ORWnVaE.woff2') format('woff2');
+}
+
+/* Normal 400 */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKZ-Go6G5tXcraVGwA.woff2') format('woff2');
+}
+
+/* Normal 700 */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/src/assets/fonts/woff2/Kanit/nKKU-Go6G5tXcr4uPhWnVaE.woff2') format('woff2');
+}
+
+/* ==========================
+   Font Usage
+   ========================== */
+
+body {
+  font-family: 'Kanit';
+}

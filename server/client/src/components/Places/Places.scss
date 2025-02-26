@@ -1,0 +1,145 @@
+.places-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #6a9e42;
+}
+
+.loading {
+  font-size: 1.2rem;
+  color: #ff6347;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.image-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.image-container {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.place-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.place-image:hover {
+  transform: scale(1.05);
+}
+
+.nav-button {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 2rem;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: background 0.3s ease-in-out;
+}
+
+.nav-button:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.left {
+  left: -40px;
+}
+
+.right {
+  right: -40px;
+}
+
+.place-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.place-address {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.dot-navigation {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  background-color: #ccc;
+  border: none;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dot.active {
+  background-color: #6a9e42;
+  transform: scale(1.2);
+}
+
+.details-btn-section {
+  margin-top: 15px;
+}
+
+.details-btn-section button {
+  background: #0044cc;
+  color: white;
+  font-size: 1rem;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.details-btn-section button:hover {
+  background: #6a9e42;
+}
+
+.add-place-section {
+  margin-top: 20px;
+}
+
+.add-place-section button {
+  background: #6a9e42;
+  color: white;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.add-place-section button:hover {
+  background: #5a8c35;
+}

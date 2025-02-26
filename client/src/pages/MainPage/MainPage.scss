@@ -1,0 +1,23 @@
+
+.main-page {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+  
+    h1 {
+      font-size: 2.5rem;
+      color: #2c3e50;
+      margin-bottom: 1.5rem;
+      text-transform: uppercase;
+    }
+  
+    .commutes-widget {
+      margin-top: 20px;
+      padding: 15px;
+      border-radius: 8px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
